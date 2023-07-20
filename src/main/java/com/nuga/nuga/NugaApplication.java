@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NugaApplication {
 
 	public static void main(String[] args) {
+		//test
 		SpringApplication.run(NugaApplication.class, args);
 	}
 
