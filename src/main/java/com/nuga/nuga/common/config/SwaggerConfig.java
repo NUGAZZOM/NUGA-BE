@@ -1,4 +1,4 @@
-package com.nuga.nuga.config;
+package com.nuga.nuga.common.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
