@@ -1,4 +1,4 @@
-package com.nuga.nuga.config;
+package com.nuga.nuga.common.config;
 
 import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties;
 import org.jasypt.encryption.StringEncryptor;
